@@ -1,0 +1,8 @@
+﻿  Characters.cpp
+  GameProgram_v4.cpp
+  Monster.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 455 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameProgram_v4.vcxproj -> C:\Users\rober\Downloads\GameProgram_v4\x64\Release\GameProgram_v4.exe
